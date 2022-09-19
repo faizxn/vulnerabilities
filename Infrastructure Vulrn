@@ -1,0 +1,11 @@
+
+<Top Vulnerabilities Internal Infrastructure>
+
+		+ Weak and default passwords
+		+ Reuse of passwords
+		+ Insufficient Network Segregation
+		+ IPMI password hash disclosure
+		+ NetBIOS over TCP/IP enabled
+		+ Unpatched Windows systems
+		+ Default SNMP community strings
+		+ Clear text protocols
